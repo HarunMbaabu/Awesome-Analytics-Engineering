@@ -1,4 +1,4 @@
-## **Awesome-AnalyticsEngineering.** 
+## **Awesome Analytics Engineering.** 
 
 
 
