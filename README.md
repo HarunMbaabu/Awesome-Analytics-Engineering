@@ -34,7 +34,7 @@ In this repository you will get hand picked learning resource and a structured l
 4). 
 [What Is An Analytics Engineer? Everything You Need to Know by DataCamp](https://www.datacamp.com/blog/what-is-an-analytics-engineer-everything-you-need-to-know)
 
-Also check tis blog by [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/) 
+Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/) 
 
 
 ### **2). SQL**
