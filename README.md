@@ -6,13 +6,15 @@ Whether you're a beginner looking to enter the field or an experienced professio
 
 ## **Table of Contents**
 
-1. [Analytics Engineering](#analytics-engineering)
-2. [SQL](#SQL)
-3. [Python](#Python.)
-4. [dbt (data build tool)](#dbt)
- 
- 
+1. [Analytics Engineering.](#1-analytics-engineering)
+2. [SQL.](#2-sql)
+3. [Python.](#3-python)
+4. [dbt (data build tool.](#4-dbt-data-build-tool)
+5. [Apache Airflow.](Airflow)
+6. [Cloud Computing Fundamentals.](#6-cloud-computing-fundamentals)
+7. [Data Modeling and ware housing.](#7-data-modeling-and-ware-housing)
 
+ 
 ### **1). Analytics Engineering**
 - Analytics Engineering combines data engineering and analytics to transform raw data into actionable insights.
 
