@@ -1,11 +1,11 @@
 ## **Awesome Analytics Engineering.** 
 
+Welcome to the *"Awesome Analytics Engineering"* repository! This curated collection of learning resources is designed to provide you with a structured learning path to excel as an Analytics Engineer. 
 
+Whether you're a beginner looking to enter the field or an experienced professional seeking to enhance your skills, this repository will guide you through various levels of analytics engineering expertise.
 
-- Curated an organized learning path with the best learning resources to grow as an Analytics Engineer. 
 
 ### **Analytics Engineering**
-
 1). What is Analytics Engineering. 
 
 2). SQL 
