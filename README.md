@@ -10,16 +10,22 @@ Whether you're a beginner looking to enter the field or an experienced professio
 2. [SQL](#SQL)
 3. [Python](#Python.)
 4. [dbt (data build tool)](#dbt)
+ 
 
-
-### **Analytics Engineering**
-
-**1). What is Analytics Engineering.**
+### **1). Analytics Engineering**
 - Analytics Engineering combines data engineering and analytics to transform raw data into actionable insights.
 
 It involves designing and implementing data pipelines, data modeling, and building analytics solutions. Analytics Engineers collaborate with data scientists, analysts, and stakeholders to deliver data-driven solutions.
 
-In this repository you will get hand picked learning resource and a structured learning path to excel as an Analytics Engineer.
+In this repository you will get hand picked learning resource and a structured learning path to excel as an Analytics Engineer. 
+
+**Resources:**
+1). [What is analytics engineering by dbt Lab](https://www.getdbt.com/what-is-analytics-engineering/#:~:text=What%20is%20an%20analytics%20engineer,%2C%20deploying%2C%20and%20documenting%20data.)
+
+2). [Introduction to Analytics Engineering by Advanced Analytics](https://www.advancinganalytics.co.uk/blog/2022/11/30/introduction-to-analytics-engineering)
+
+3). 
+[What Is An Analytics Engineer? Everything You Need to Know by DataCamp](https://www.datacamp.com/blog/what-is-an-analytics-engineer-everything-you-need-to-know)
 
 **2). SQL**
 
