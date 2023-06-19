@@ -1,12 +1,20 @@
-## **Awesome Analytics Engineering.** 
+# **Awesome Analytics Engineering.** 
 
 Welcome to the **"Awesome Analytics Engineering"** repository! This curated collection of learning resources is designed to provide you with a structured learning path to excel as an Analytics Engineer. 
 
 Whether you're a beginner looking to enter the field or an experienced professional seeking to enhance your skills, this repository will guide you through various levels of analytics engineering expertise.
 
+## **Table of Contents**
+
+1. [Analytics Engineering.](#What is Analytics Engineering.)
+2. [SQL](#SQL)
+3. [Python](#Python.)
+4. [dbt (data build tool)](#dbt)
+
 
 ### **Analytics Engineering**
-1). What is Analytics Engineering. 
+
+**1). What is Analytics Engineering.**
 - Analytics Engineering combines data engineering and analytics to transform raw data into actionable insights.
 
 It involves designing and implementing data pipelines, data modeling, and building analytics solutions. Analytics Engineers collaborate with data scientists, analysts, and stakeholders to deliver data-driven solutions.
@@ -14,6 +22,7 @@ It involves designing and implementing data pipelines, data modeling, and buildi
 In this repository you will get hand picked learning resource and a structured learning path to excel as an Analytics Engineer.
 
 **2). SQL**
+
 - SQL (Structured Query Language) is a fundamental skill for analytics engineers. Here, you will find resources that cover SQL basics, advanced query techniques, data manipulation, and optimization. Mastering SQL is crucial for efficiently extracting, transforming, and analyzing data from relational databases.
 
 **3). Python**
