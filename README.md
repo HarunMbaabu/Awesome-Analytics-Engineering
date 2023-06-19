@@ -20,6 +20,7 @@ It involves designing and implementing data pipelines, data modeling, and buildi
 In this repository you will get hand picked learning resource and a structured learning path to excel as an Analytics Engineer. 
 
 **Resources:**
+
 1). [What is analytics engineering by dbt Lab](https://www.getdbt.com/what-is-analytics-engineering/#:~:text=What%20is%20an%20analytics%20engineer,%2C%20deploying%2C%20and%20documenting%20data.)
 
 2). [Introduction to Analytics Engineering by Advanced Analytics](https://www.advancinganalytics.co.uk/blog/2022/11/30/introduction-to-analytics-engineering)
