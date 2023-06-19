@@ -71,7 +71,16 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 ### **11). Prefect.**
 
 
-### **12). Airbyte.**
+### **12). Airbyte.** 
+
+
+### **13). Debugging.**
+
+
+### **14). Testing.** 
+
+
+### **15). Version Control Systems and Data Control Systems.**
 
 
 
@@ -93,5 +102,10 @@ Inspired by the [awesome](https://github.com/vinta/awesome-python) . Created by 
 
 
 **Analytics Engineering Glossary by dbt Labs:** https://docs.getdbt.com/glossary
+
+
+
+## **Contributing**
+We welcome and apprecciate contributions! You can find more information in the [ LuxDevHQ Code Of Conduct contribution guidelines](https://github.com/LuxDevHQ/Code-Of-Conduct).
 
 **[⬆ Back To Top](#table-of-contents)**
