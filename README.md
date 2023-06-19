@@ -46,3 +46,4 @@ In this repository you will get hand picked learning resource and a structured l
 
 **Analytics Engineering Glossary by dbt Labs:** https://docs.getdbt.com/glossary
 
+**[⬆ Back To Top](#table-of-contents)**
