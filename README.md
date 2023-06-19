@@ -6,7 +6,7 @@ Whether you're a beginner looking to enter the field or an experienced professio
 
 ## **Table of Contents**
 
-1. [Analytics Engineering.](#What is Analytics Engineering.)
+1. [Analytics Engineering](#analytics-engineering)
 2. [SQL](#SQL)
 3. [Python](#Python.)
 4. [dbt (data build tool)](#dbt)
