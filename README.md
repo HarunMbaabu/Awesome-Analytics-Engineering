@@ -13,7 +13,15 @@ Whether you're a beginner looking to enter the field or an experienced professio
 5. [Apache Airflow.](Airflow)
 6. [Cloud Computing Fundamentals.](#6-cloud-computing-fundamentals)
 7. [Data Modeling and ware housing.](#7-data-modeling-and-ware-housing)
-
+8. [Great Expectation.](#8-great-expectation) 
+9. [Data visualization.](#9-data-visualization)
+10. [Fivetran](#10-fivetran) 
+11. [Prefect.](#11-prefect)
+12. [Airbyte.](#12-airbyte) 
+13. [Talend.](#14-talend)
+14. [Debugging.](#14-debugging)
+15. [Testing.](#15-testing)
+16. [Version Control Systems and Data Control Systems.](#16-version-control-systems-and-data-control-systems)
  
 ### **1). Analytics Engineering**
 - Analytics Engineering combines data engineering and analytics to transform raw data into actionable insights.
@@ -93,7 +101,7 @@ With Airbyte, you can configure and orchestrate data pipelines to extract data f
 Airbyte is designed to be extensible and scalable. You can create custom connectors or contribute to the growing list of community-maintained connectors. It also provides features like schema mapping, incremental
 
 
-### **14). Talend.**
+### **13). Talend.**
 - Talend is an enterprise data integration platform that provides a comprehensive set of tools for building and managing data integration workflows. It offers a visual interface for designing data pipelines and supports a wide range of data sources and destinations. Talend includes features like data mapping, transformation, scheduling, and monitoring. It also provides support for data quality checks, data profiling, and data governance. Talend helps streamline data integration processes and enables organizations to implement complex data integration scenarios.
 
 
