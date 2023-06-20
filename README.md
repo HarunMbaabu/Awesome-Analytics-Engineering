@@ -92,22 +92,29 @@ With Airbyte, you can configure and orchestrate data pipelines to extract data f
 
 Airbyte is designed to be extensible and scalable. You can create custom connectors or contribute to the growing list of community-maintained connectors. It also provides features like schema mapping, incremental
 
-### **13). Debugging.**
+
+### **14). Talend.**
+- Talend is an enterprise data integration platform that provides a comprehensive set of tools for building and managing data integration workflows. It offers a visual interface for designing data pipelines and supports a wide range of data sources and destinations. Talend includes features like data mapping, transformation, scheduling, and monitoring. It also provides support for data quality checks, data profiling, and data governance. Talend helps streamline data integration processes and enables organizations to implement complex data integration scenarios.
+
+
+### **14). Debugging.**
 - Debugging is the process of identifying and fixing errors, bugs, or issues in software or data pipelines. In the context of analytics engineering, debugging is crucial for ensuring the correctness and reliability of data transformations, ETL processes, and data analysis workflows.
 
 When debugging data pipelines, it's important to have proper logging and monitoring mechanisms in place. This allows you to track the flow of data, identify potential bottlenecks, and capture relevant information for troubleshooting purposes. Tools like logging frameworks, observability platforms, and error tracking systems can assist in the debugging process.
 
 Additionally, data profiling and exploration techniques can help identify data quality issues, inconsistencies, or unexpected patterns in your data. By analyzing the intermediate results of your data pipeline, you can pinpoint potential problems and apply appropriate fixes.
 
-### **14). Testing.** 
+### **15). Testing.** 
 - Testing is a critical aspect of software development and data engineering. It involves systematically verifying that your code, data transformations, and pipelines work as expected and produce accurate results. Testing helps identify bugs, prevent regressions, and ensure the reliability and quality of your data processes.
 
 In data engineering, testing can involve various types of tests, such as unit tests, integration tests, and end-to-end tests. Unit tests focus on testing individual components or functions in isolation. Integration tests verify the interaction between different components, ensuring that they work together correctly. End-to-end tests validate the entire data pipeline, from data ingestion to the final output.
 
 Tools like pytest, unittest, and Apache Beam's testing utilities can assist in writing and running tests for your data engineering code. It's important to establish a comprehensive testing strategy that covers different aspects of your data pipelines, including data validation, error handling, and edge cases.
 
+Resources: 
+[ETL testing: A comprehensive guide to ensuring data quality and integration BY Talend](https://www.talend.com/resources/etl-testing/)
 
-### **15). Version Control Systems and Data Control Systems.**
+### **16). Version Control Systems and Data Control Systems.**
 - Version Control Systems (VCS) and Data Control Systems (DCS) are essential tools for managing code, configuration, and data assets in analytics engineering projects.
 
 Version Control Systems, such as Git, provide a way to track changes, collaborate with others, and maintain a history of modifications to your codebase. They allow you to create branches, merge changes, and revert to previous versions if needed. VCS also facilitate team collaboration by enabling concurrent work on different features or bug fixes.
@@ -119,12 +126,13 @@ Tools like DVC (Data Version Control) and Delta Lake combine the concepts of VCS
 By utilizing both Version Control Systems and Data Control Systems, you can establish robust governance practices, ensure reproducibility, and maintain a clear history of changes in your analytics projects.
 
 
-
-
-
 #### - Community 
+[Airflow Community](https://airflow.apache.org/community/)
+
+[dbt(Data Build Tool) Community](https://www.getdbt.com/community/)
 
 #### - Forums 
+
 
 #### - Conferences
 
