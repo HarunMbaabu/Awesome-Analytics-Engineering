@@ -55,7 +55,9 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 - **Text Tutorial:**
 
 [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+
 [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+
 [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
 
 - **Video Tutorial:**
@@ -67,7 +69,9 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 #### **Resources:**
 - **Text Tutorial:**
 [Python Documentation](https://docs.python.org/3/)  
+
 [Tutorial Net Python Tutorial](https://www.pythontutorial.net/)
+
 [W3 School Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 - **Video Tutorial:**
