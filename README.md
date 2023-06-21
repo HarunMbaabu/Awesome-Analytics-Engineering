@@ -30,8 +30,8 @@ It involves designing and implementing data pipelines, data modeling, and buildi
 
 In this repository you will get hand picked learning resource and a structured learning path to excel as an Analytics Engineer. 
 
-**Resources:**
-
+#### **Resources:**
+- **Text Tutorial:**
 1). [What is analytics engineering by dbt Lab](https://www.getdbt.com/what-is-analytics-engineering/#:~:text=What%20is%20an%20analytics%20engineer,%2C%20deploying%2C%20and%20documenting%20data.)
 
 2). [Introduction to Analytics Engineering by Advanced Analytics](https://www.advancinganalytics.co.uk/blog/2022/11/30/introduction-to-analytics-engineering)
@@ -42,12 +42,25 @@ In this repository you will get hand picked learning resource and a structured l
 4). 
 [What Is An Analytics Engineer? Everything You Need to Know by DataCamp](https://www.datacamp.com/blog/what-is-an-analytics-engineer-everything-you-need-to-know)
 
-Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/) 
+Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
+ 
+- **Video Tutorial:**
 
 
 ### **2). SQL**
 
 - SQL (Structured Query Language) is a fundamental skill for analytics engineers. Here, you will find resources that cover SQL basics, advanced query techniques, data manipulation, and optimization. Mastering SQL is crucial for efficiently extracting, transforming, and analyzing data from relational databases.
+
+#### **Resources:**
+- **Text Tutorial:**
+
+[Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+[W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+[Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+
 
 ### **3). Python**
 - Python is a versatile programming language widely used in analytics engineering. This level provides learning materials and examples to develop your Python skills for data manipulation, analysis, and visualization. You'll explore libraries like Pandas, NumPy, and Matplotlib to handle data effectively.
