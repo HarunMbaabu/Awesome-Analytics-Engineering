@@ -43,7 +43,7 @@ In this repository you will get hand picked learning resource and a structured l
 [What Is An Analytics Engineer? Everything You Need to Know by DataCamp](https://www.datacamp.com/blog/what-is-an-analytics-engineer-everything-you-need-to-know)
 
 Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengineering.substack.com/)
- 
+
 - **Video Tutorial:**
 
 
@@ -61,9 +61,16 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 - **Video Tutorial:**
 
 
-
 ### **3). Python**
 - Python is a versatile programming language widely used in analytics engineering. This level provides learning materials and examples to develop your Python skills for data manipulation, analysis, and visualization. You'll explore libraries like Pandas, NumPy, and Matplotlib to handle data effectively.
+
+#### **Resources:**
+- **Text Tutorial:**
+[Python Documentation](https://docs.python.org/3/)  
+[Tutorial Net Python Tutorial](https://www.pythontutorial.net/)
+[W3 School Python Tutorial](https://www.w3schools.com/python/default.asp)
+
+- **Video Tutorial:**
 
 
 ### **4). dbt (data build tool)**
