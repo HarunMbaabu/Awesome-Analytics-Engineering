@@ -52,6 +52,7 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 - SQL (Structured Query Language) is a fundamental skill for analytics engineers. Here, you will find resources that cover SQL basics, advanced query techniques, data manipulation, and optimization. Mastering SQL is crucial for efficiently extracting, transforming, and analyzing data from relational databases.
 
 #### **Resources:**
+
 - **Text Tutorial:**
 
 [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
@@ -67,7 +68,9 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 - Python is a versatile programming language widely used in analytics engineering. This level provides learning materials and examples to develop your Python skills for data manipulation, analysis, and visualization. You'll explore libraries like Pandas, NumPy, and Matplotlib to handle data effectively.
 
 #### **Resources:**
+
 - **Text Tutorial:**
+
 [Python Documentation](https://docs.python.org/3/)  
 
 [Tutorial Net Python Tutorial](https://www.pythontutorial.net/)
