@@ -113,6 +113,22 @@ With Fivetran, you can set up automated data pipelines to extract data from the 
 
 Fivetran supports popular data warehouses such as Amazon Redshift, Google BigQuery, Snowflake, and Microsoft Azure Synapse Analytics. By leveraging Fivetran's connectors and automated processes, you can streamline your data ingestion workflow and ensure that your analytics infrastructure stays up-to-date with the latest data.
 
+
+#### **Resources:**
+
+- **Text Tutorial:**
+
+[Fivetran Documentation](https://fivetran.com/docs/getting-started)  
+
+[WHAT IS FIVETRAN AND WHY YOU SHOULD USE IT by Seattle Data Guy](https://www.theseattledataguy.com/what-is-fivetran-and-why-you-should-use-it/)
+
+[A beginner’s guide to setting up ELT data pipelines by Fivetran Team](https://www.fivetran.com/blog/a-beginner-guide-to-elt-data-pipelines)
+
+- **Video Tutorial:**
+[Fivetran Tutorial](https://youtu.be/Mt2zpL9OcJQ)
+[Udemy Fivetran Bootcamp : Zero to Mastery 2023 ](https://www.udemy.com/course/fivetran-bootcamp-zero-to-mastery-2022/) 
+[How to automate you data pipelines using Fivetran and dbt on Snowflake](https://youtu.be/W4NjM5jaqSs)
+
 ### **11). Prefect.**
 - Prefect is an open-source workflow management system designed for building, scheduling, and monitoring data pipelines. It provides a Python-based infrastructure to define and execute complex workflows with dependencies, retries, and error handling.
 
