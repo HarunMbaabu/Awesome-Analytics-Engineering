@@ -126,9 +126,12 @@ Fivetran supports popular data warehouses such as Amazon Redshift, Google BigQue
 
 - **Video Tutorial:**
 
+
 [Fivetran Tutorial](https://youtu.be/Mt2zpL9OcJQ)
 
+
 [Udemy Fivetran Bootcamp : Zero to Mastery 2023 ](https://www.udemy.com/course/fivetran-bootcamp-zero-to-mastery-2022/) 
+
 
 [How to automate you data pipelines using Fivetran and dbt on Snowflake](https://youtu.be/W4NjM5jaqSs)
 
