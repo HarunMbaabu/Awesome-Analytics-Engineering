@@ -55,10 +55,8 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 
 - **Text Tutorial:**
   
-   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
-
    - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
    - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
 
 - **Video Tutorial:**
@@ -90,17 +88,83 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 ### **5). Airflow**
 - Apache Airflow is a powerful workflow management platform. Here, you will discover resources to understand Airflow's concepts, how to define and schedule tasks, manage dependencies, and create robust data pipelines. You'll also learn about best practices for orchestrating data workflows.
 
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
 ### **6). Cloud Computing Fundamentals.**
 - Cloud computing has revolutionized the way data is stored and processed. This level introduces you to cloud computing fundamentals, including the concepts of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). You'll explore popular cloud platforms and their offerings for analytics engineering.
+
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+***********************************************************************************************************************************************************************************
 
 ### **7). Data Modeling and ware housing.**  
 - Data modeling and warehousing are essential components of analytics engineering. In this section, you'll delve into the principles of data modeling, relational and dimensional modeling, and learn about data warehousing concepts and technologies. Understanding these concepts will enable you to design efficient and scalable data architectures. 
 
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+
+***********************************************************************************************************************************************************************************
 
 ### **8). Great Expectation.**  
 - Great Expectations is an open-source Python library that helps you define, document, and validate your data pipelines. With Great Expectations, you can set expectations about your data, such as its structure, type, and statistical properties. It allows you to check if your data meets these expectations, providing data quality assurance and helping to identify issues early in your pipeline.
+  
+#### **Resources:**
 
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
 By using Great Expectations, you can establish a contract between data producers and consumers, ensuring that data is reliable, consistent, and adheres to predefined expectations. The library supports various data storage systems and formats, making it suitable for a wide range of data engineering use cases
+
+
+
+***********************************************************************************************************************************************************************************
 
 ### **9). Data visualization.**
 - Data visualization is the process of presenting data in visual formats such as charts, graphs, and maps. It is a powerful tool for exploring and communicating insights from data. Effective data visualization allows you to identify patterns, trends, and outliers, enabling better decision-making.
@@ -108,6 +172,25 @@ By using Great Expectations, you can establish a contract between data producers
 There are numerous data visualization tools available that can help you create compelling visualizations. Some popular options include Tableau, Power BI, matplotlib, seaborn, and Plotly. These tools provide a wide range of features and customization options to create interactive and informative visualizations.
 
 When working with data visualization, it's important to consider the target audience and the story you want to convey. Choosing appropriate visual representations, colors, and labels can significantly enhance the understanding and impact of your data visualizations.
+
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+
+***********************************************************************************************************************************************************************************
 
 ### **10). Fivetran.** 
 - Fivetran is a cloud-based data integration platform that simplifies the process of data ingestion from various sources into a data warehouse. It provides pre-built connectors for a wide range of data sources, including databases, cloud applications, event streams, and more.
@@ -138,12 +221,33 @@ Fivetran supports popular data warehouses such as Amazon Redshift, Google BigQue
 
 [How to automate you data pipelines using Fivetran and dbt on Snowflake](https://youtu.be/W4NjM5jaqSs)
 
+
+***********************************************************************************************************************************************************************************
+
 ### **11). Prefect.**
 - Prefect is an open-source workflow management system designed for building, scheduling, and monitoring data pipelines. It provides a Python-based infrastructure to define and execute complex workflows with dependencies, retries, and error handling.
 
 With Prefect, you can create workflows as code, expressing the dependencies and relationships between tasks. It supports various task types, including Python functions, external commands, and API calls. You can also define triggers, schedule workflows to run at specific times or intervals, and monitor their execution through a web-based dashboard.
 
 Prefect integrates with popular data engineering tools and frameworks, such as Apache Airflow, Dask, and Kubernetes. It offers features like distributed execution, fault tolerance, and dynamic task scaling, making it suitable for handling large-scale data processing pipelines.
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+ 
+***********************************************************************************************************************************************************************************
 
 ### **12). Airbyte.** 
 - Airbyte is an open-source data integration platform that helps you replicate and sync data from various sources to your data warehouse or data lake. It provides connectors for a wide range of data sources, including databases, cloud applications, APIs, and more.
@@ -152,10 +256,37 @@ With Airbyte, you can configure and orchestrate data pipelines to extract data f
 
 Airbyte is designed to be extensible and scalable. You can create custom connectors or contribute to the growing list of community-maintained connectors. It also provides features like schema mapping, incremental
 
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
 
 ### **13). Talend.**
 - Talend is an enterprise data integration platform that provides a comprehensive set of tools for building and managing data integration workflows. It offers a visual interface for designing data pipelines and supports a wide range of data sources and destinations. Talend includes features like data mapping, transformation, scheduling, and monitoring. It also provides support for data quality checks, data profiling, and data governance. Talend helps streamline data integration processes and enables organizations to implement complex data integration scenarios.
+  
+#### **Resources:**
 
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
 
 ### **14). Debugging.**
 - Debugging is the process of identifying and fixing errors, bugs, or issues in software or data pipelines. In the context of analytics engineering, debugging is crucial for ensuring the correctness and reliability of data transformations, ETL processes, and data analysis workflows.
@@ -164,6 +295,23 @@ When debugging data pipelines, it's important to have proper logging and monitor
 
 Additionally, data profiling and exploration techniques can help identify data quality issues, inconsistencies, or unexpected patterns in your data. By analyzing the intermediate results of your data pipeline, you can pinpoint potential problems and apply appropriate fixes.
 
+
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+ 
+    
 ### **15). Testing.** 
 - Testing is a critical aspect of software development and data engineering. It involves systematically verifying that your code, data transformations, and pipelines work as expected and produce accurate results. Testing helps identify bugs, prevent regressions, and ensure the reliability and quality of your data processes.
 
@@ -171,8 +319,23 @@ In data engineering, testing can involve various types of tests, such as unit te
 
 Tools like pytest, unittest, and Apache Beam's testing utilities can assist in writing and running tests for your data engineering code. It's important to establish a comprehensive testing strategy that covers different aspects of your data pipelines, including data validation, error handling, and edge cases.
 
-Resources: 
-[ETL testing: A comprehensive guide to ensuring data quality and integration BY Talend](https://www.talend.com/resources/etl-testing/)
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+
 
 ### **16). Version Control Systems and Data Control Systems.**
 - Version Control Systems (VCS) and Data Control Systems (DCS) are essential tools for managing code, configuration, and data assets in analytics engineering projects.
@@ -184,6 +347,25 @@ Data Control Systems, on the other hand, focus on managing data assets and ensur
 Tools like DVC (Data Version Control) and Delta Lake combine the concepts of VCS and DCS, providing versioning capabilities for data assets. They enable data scientists and engineers to track changes to datasets, collaborate on data workflows, and ensure consistency across different stages of data processing.
 
 By utilizing both Version Control Systems and Data Control Systems, you can establish robust governance practices, ensure reproducibility, and maintain a clear history of changes in your analytics projects.
+
+
+#### **Resources:**
+
+- **Text Tutorial:**
+  
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+
+- **Video Tutorial:**
+
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+
+
+
+***********************************************************************************************************************************************************************************
 
 
 #### - Community 
@@ -203,9 +385,14 @@ Inspired by the [awesome](https://github.com/vinta/awesome-python) . Created by 
 
 
 
+***********************************************************************************************************************************************************************************
+
+
 **Analytics Engineering Glossary by dbt Labs:** https://docs.getdbt.com/glossary
 
 
+
+***********************************************************************************************************************************************************************************
 
 ## **Contributing**
 We welcome and apprecciate contributions! You can find more information in the [ LuxDevHQ Code Of Conduct contribution guidelines](https://github.com/LuxDevHQ/Code-Of-Conduct).
