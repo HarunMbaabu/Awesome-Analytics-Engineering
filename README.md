@@ -54,20 +54,19 @@ Also check this blog by [Learn Analytics Engineering](https://learnanalyticsengi
 #### **Resources:**
 
 - **Text Tutorial:**
+  
+   - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
 
-       - [Tutorial Net SQL Server Tutorial](https://www.sqlservertutorial.net/)
+   - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
-       - [W3 School SQL Tutorial](https://www.w3schools.com/sql/default.asp)
-
-       - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
+   - [Learn SQL: SQL Tutorial for Beginners at Programiz](https://www.programiz.com/sql) 
 
 - **Video Tutorial:**
 
-       - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
-       - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
-       - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
+  - [Learn SQL In 60 Minutes by Web Dev Simplified ](https://youtu.be/p3qvj9hO_Bo?si=5tjlED_SQmDZREAx)
+  - [SQL Tutorial - Full Database Course for Beginners by freeCodeCamp ](https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e)
+  - [https://youtu.be/HXV3zeQKqGY?si=Tta3Ps5XxPcwCx1e by Programming with Mosh ](https://youtu.be/7S_tz1z_5bA?si=2T68iRx3bX1Z5CAP)
        
-
 ### **3). Python**
 - Python is a versatile programming language widely used in analytics engineering. This level provides learning materials and examples to develop your Python skills for data manipulation, analysis, and visualization. You'll explore libraries like Pandas, NumPy, and Matplotlib to handle data effectively.
 
